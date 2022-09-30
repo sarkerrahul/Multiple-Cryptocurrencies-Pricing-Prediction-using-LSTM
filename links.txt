@@ -1,0 +1,3 @@
+https://github.com/cydalytics/Financial_Data_Analysis
+https://medium.com/financial-data-analysis/multiple-cryptocurrencies-pricing-prediction-using-lstm-python-a8e864176604
+https://medium.com/financial-data-analysis/web-scraping-cryptocurrency-1-minute-price-data-python-471dd165d934
